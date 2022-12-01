@@ -10,13 +10,14 @@ def loadInput(fileName="input.txt"):
         return file.read().splitlines()
 
 inputLines = loadInput()
-b = o = []
+b = []
+o = []
 for x in inputLines:
     if x != '':
         b.append(int(x))
     else:
         o.append(b)
         b = []
-x = sorted([sum(x) for x in o], reverse=True)
+x = sorted(list(map(sum, o)), reverse=True)
 print(x[0])     # part 1
 print(sum(x[0 : 3]))    # part 2
