@@ -7,8 +7,8 @@ def loadInput(fileName="input.txt"):
     with open(os.path.join(__location__, fileName)) as file:
         return file.read().splitlines()
 
-res = sum([(((ord(a) - 65) + (ord(b) - 89)) % 3 + 1 + ((ord(b) - 89) + 1) * 3) for a,_,b in loadInput()])
-print(res)
+res = sum([((ord(a) - 65) + (ord(b) - 89)) % 3 + 1 + ((ord(b) - 89) + 1) * 3 for a,_,b in loadInput()])
+
 
 
 
