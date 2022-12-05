@@ -4,3 +4,8 @@ def loadInput(fileName="input.txt"):
         os.getcwd(), os.path.dirname(__file__)))
     with open(os.path.join(__location__, fileName)) as file:
         return file.read().splitlines()
+def loadeg(fileName="example.txt"):
+    __location__ = os.path.realpath(os.path.join(
+        os.getcwd(), os.path.dirname(__file__)))
+    with open(os.path.join(__location__, fileName)) as file:
+        return file.read().splitlines()
