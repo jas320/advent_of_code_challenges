@@ -1,6 +1,16 @@
-for i in range(7,26):
-    with open(f"day{i}.py", 'w') as file:
-        file.write('''from utils import loadInput
+from utils import loadInput
 
 
-inputLines = loadInput()''')
+inputLines = loadInput()
+
+# can use either list for amortized (O(1)) from the back or use
+# dequeue import
+
+for line in inputLines:
+    print(line)
+    # if line == "":
+        # break
+# for line in inputLines:
+    # a = line.split(" ")
+    # _,num, _,start,_, end = a
+    
