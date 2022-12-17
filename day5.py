@@ -33,3 +33,8 @@ for i in range(s + 2, len(inputLines)):
 print(g)
 for x in g:
     print(x[-1], end="")
+
+
+x = "mystring"
+for i in range(len(x), - 1,- 1):
+    print(x[i])
