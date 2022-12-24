@@ -34,10 +34,10 @@ nl_d = copy.deepcopy(nl)
 # print(nl)
 for i in range(len(nl_d)):
     n = nl_d[i]    
-    second = n.split("_")[1]
-    vs = []
-    for x in range(cnt[second]):
-        vs.append(f"{x}_{second}")
+    # second = n.split("_")[1]
+    vs = [n]
+    # for x in range(cnt[second]):
+    #     vs.append(f"{x}_{second}")
     # print(vs)
     for n in vs:
         # print(n)
