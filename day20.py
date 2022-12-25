@@ -41,14 +41,17 @@ for i in range(len(nl_d)):
     # print(vs)
     for n in vs:
         # print(n)
+        # second = (n.split("_"))[1]
+        # n = "0_" + second
         start_i = nl.index(n)
-        # print(n, start_i)
         new_index = (start_i + valueof(n))
-        if new_index > len(nl):
+        if new_index == start_i:
+            continue
+        elif new_index > len(nl):
             new_index = (new_index) % len(nl)
         elif new_index <= 0:
             new_index = (new_index - 1) % len(nl)
-        # print(n, start_i, new_index)
+        print(n, start_i, new_index)
         nl.insert(new_index + 1, n)
         # print(nl)\
         nl.pop(start_i if start_i < new_index else start_i + 1)
