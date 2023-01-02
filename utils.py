@@ -17,5 +17,8 @@ def grid(str):
     h,w = len(str), len(str[0])
     return [[str[i][j] for j in range(w)] for i in range(h)]
 
+def xy_cors(keys):
+    y1,y2,x1,x2 = min(keys, key=lambda x : x[0])[0], max(keys, key=lambda x : x[0])[0], min(keys, key=lambda x : x[1])[1], max(keys, key=lambda x : x[1])[1]
+    return y1, y2, x1, x2
 # def grid(h, w):
 #     return [[str[i][j] for j in range(w)] for i in range(h)]
