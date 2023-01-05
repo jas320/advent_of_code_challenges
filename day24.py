@@ -9,7 +9,7 @@ inputLines = loadeg()
 g = grid(inputLines)
 w,h = len(g[0]), len(g)
 start = (0, 1)
-end = (len(g), len(g[0]) - 2)
+end = (h - 1, w - 2)
 new_d = {"v" : (1,0), "^" : (-1,0), ">": (0,1), "<" : (0,-1)}
 g = grid(inputLines)
 for i in range(h):
@@ -20,10 +20,7 @@ def pg(g):
         s = ""
         for j in range(w):
             v = g[i][j]
-            if len(v) == 1:
-                s += v[0]
-            else:
-                s += str(len(v))
+            s += v[0] if len(v) == 1 else str(len(v))
         print(s)
 def wrap(i, j):
     if i == h - 1:
