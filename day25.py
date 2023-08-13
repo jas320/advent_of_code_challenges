@@ -5,7 +5,7 @@ import math
 import sys
 
 inputLines = loadInput()
-# inputLines = loadeg()
+inputLines = loadeg()
 
 cv = {"-": -1, "=": -2}
 s = 0
