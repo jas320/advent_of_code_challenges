@@ -12,7 +12,7 @@ inputLines = loadInput()
 g = grid(inputLines)
 h,w = len(g), len(g[0])
 
-def adj_empty(y, x, g):
+def adj_empty(y, x):
     for m in range(-1,2):
         for n in range(-1,2):
             t1,t2 = y,x
@@ -30,7 +30,7 @@ def adj_empty(y, x, g):
                 # print(t1,t2,m,n)
     return True
                 
-def adj_five_occ(y, x, g):
+def adj_five_occ(y, x):
     c = 0
     for m in range(-1,2):
         for n in range(-1,2):
@@ -60,10 +60,10 @@ while c:
     for y in range(0, h):
         for x in range(0, w):
             s = g[y][x] # g[h][w]
-            if s == 'L' and adj_empty(y, x, g):
+            if s == 'L' and adj_empty(y, x):
                 dc[y][x] = '#'
                 c = True
-            elif s == '#' and adj_five_occ(y, x, g):
+            elif s == '#' and adj_five_occ(y, x):
                 dc[y][x] = 'L'
                 c = True
             else:
