@@ -1,4 +1,4 @@
-import os
+import os,math
 def loadInput(fileName="input.txt"):
     __location__ = os.path.realpath(os.path.join(
         os.getcwd(), os.path.dirname(__file__)))
@@ -35,3 +35,67 @@ def non_recursive_dfs(graph, start_vertex):
             for neighbor in graph[vertex]:
                 if not visited[neighbor]:
                     stack.append(neighbor)
+
+def rotate(origin, point, angle):
+    """
+    Rotate a point counterclockwise by a given angle around a given origin.
+    For clockwis use negative angle (visa versa)
+    The angle should be given in radians.
+    """
+    angle = math.radians(angle) # 
+    ox, oy = origin
+    px, py = point
+
+    qx = ox + math.cos(angle) * (px - ox) - math.sin(angle) * (py - oy)
+    qy = oy + math.sin(angle) * (px - ox) + math.cos(angle) * (py - oy)
+    return round(qx), round(qy)
+# PYTHON SYNTAX AND TRICKS, performance and memory quirks and Big O notation.              
+                    
+# switch statement in python 3.10 onwards.
+# match lang:
+#     case "JavaScript":
+#         print("You can become a web developer.")
+
+#     case "Python" | "Not python":
+#         print("You can become a Data Scientist")
+    
+#     case _:
+#         print("default action (base case)")
+
+# print(f"{ins} is invalid")
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
+# 
