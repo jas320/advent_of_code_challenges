@@ -1,3 +1,57 @@
+<<<<<<< Updated upstream
+Player 1:
+41
+48
+12
+6
+1
+25
+47
+43
+4
+35
+10
+13
+23
+39
+22
+28
+44
+42
+32
+31
+24
+50
+34
+29
+14
+
+Player 2:
+36
+49
+11
+16
+20
+17
+26
+30
+18
+5
+2
+38
+7
+27
+21
+9
+19
+15
+8
+45
+37
+40
+33
+4
+=======
 cptr jjxp zzkq jtqt jmvzd mxgv mbgvjc rrqmh pvhcsn ltbj rvqjz sgtd gjnspc nnkfbt rzft nqv hhbn mxz dsntb ckdz mjbv mdgq dmjqb jxbnb rkhzrzq vqkcm bmgg ctmzb kmcj lgmtk dcplpl szhtvc nvxkrv qlqz bplgbt fkzqq nqncqb ntz jqnhd hfsmp czpfj kzlmds nb blsqq mrmjpg zgdr chpdjkf vvsjq dz xhnc zntsz kbmxb ntszq xdrkv xtxsd knlsxvd flrqnz bxns pzvkjv ssfnz lzzc (contains sesame)
 ntszq nrfmm rtlg ckdfvz flrqnz ztpqkt kzlmds glxk kcktpbkr dz fppzs njbkq ltbj jxbnb nnkfbt skqzs ksk dvpmjzv rmvrtcrf rrqmh jxlzhm phnzt zntsz pvhcsn jkdv vjbrstq sfmqbl bplgbt kbmxb vsqjf dcplpl gmlm chpdjkf jzcv drmhm djggpdlf fksjj zzkq cstcb rzft kbfcck xxftp xrd gsfmr mskp zvhcv bhvzg qjvzrv hgjmbqj cmhfx tjbbb cptr ssfnz mmgdmql mgcfqsm hlrkh llpqf zfzzt bhtvt xmpdtf zgdr mqxrzv scrqn zjfls nxffgkd jfj jtqt jfzm dktj ntxnp cg gpsr mrmjpg rkhzrzq dvvkd mnvvt (contains dairy, peanuts)
 htfb rrqmh nphh pvhcsn svppj knlsxvd bplgbt rzfcs ltbj bxns fdfzgq hsdc phnzt jfzm sfjzfn kbmxb mrmjpg chpdjkf sfmqbl rtkjgl mdgq qvrqrj mxgv vsqjf hlqq bsnqhfg xrd lzzc tsddn kcktpbkr ntxnp xtxsd bmgg dvpmjzv mskp nqv vqkcm jtqt mqh flrqnz bhvzg mgcfqsm nrfmm jqnhd vcll fppzs pjn dmjqb zjfls slmr mxs qtztn jxlzhm hjsjb ssfnz jxbnb dvvkd mztlt cmhfx qfdjlq hgjmbqj jmvzd pmdqks ctmzb (contains sesame, dairy)
@@ -39,3 +93,4 @@ zgdr jfzm cmhfx ltbj vvsjq lgmz xdrkv mbgvjc mgcfqsm qtztn jqnhd mxz cxf rkhzrzq
 htfb ntszq dktj sfmqbl nrfmm vqkcm hhbn mqxrzv cmhfx ctmzb jkdv lgmz zts jrjdg cxf bplgbt fdfzgq pjm nxffgkd jfzm ckdz jxbnb mjbv kzlmds mnvvt pvhcsn cstcb slmr sgtd cjv vsqjf xxftp zgdr cnxbq phnzt pjn kbmxb dsntb bxns nmnr vjtlvq rvmqk hfsmp tvfb pvprzd qfdjlq gsfmr pmdqks blsqq chpdjkf bjvks zqrz jxmlx mskp xmpdtf jqnhd ltbj xhnc nb mbgvjc rtlg bsnqhfg bhvzg gfvhp gdpvd ktb xrd mmszz drmhm nphh zzkq fkzqq (contains dairy, nuts)
 sfjzfn mztlt hgjmbqj gkcnh lzzc gpsr cmhfx rvqjz tvfb htfb qfdjlq sfmqbl ntbr jqnhd nrfmm pjn dvpmjzv cmddh qjvzrv zntsz lgmfmp ltbj xmpdtf pjm cstcb xdrkv scrvrrbf jtqt vjbrstq jkqdv rrqmh mmszz nvxkrv szhtvc jxbnb pvprzd pkscpx tkmsp bxns jxlzhm ktb hktr pzvkjv xtxsd hsdc lfnl ckdfvz tgvrbl jjxp vbl gdpvd lgmz llpqf tptjhd lpdfbg jfj phnzt fdfzgq dktj zgdr scrqn vjtlvq jrjdg fksjj vclhj vnmkhgt zzkq drmhm mqxrzv ztpqkt fkzqq pvhcsn mmgdmql njbkq hjsjb mgcfqsm jkdv pmdqks mqh dzmkz cqpqbr mskp jzcv lnshn zvhcv glxk vxjt qtztn mdgq (contains shellfish, wheat)
 dmjqb scrqn kbfcck mgcfqsm xdrkv pzvkjv zzkq kbmxb hbxhrb zjfls tbhhf rzfcs zbhvl nrfmm cstcb tjbbb lfnl qvrqrj hsdc hgjmbqj gmlm sfjzfn skqzs mqh mnvvt jrjdg vvsjq dz chst pkscpx scrvrrbf xt ltbj sbvx lgmfmp pmdqks rvmqk xrd vnmkhgt ktb nphh vqkcm fkzqq rmvrtcrf fdfzgq ksk ckdz hlqq mskp vsqjf gjnspc cjv nxffgkd jzcv qtztn njbkq pjm mdgq ztpqkt vbl svppj fppzs pvhcsn qjvzrv czpfj tkmsp ntz tmrss hhbn zkhrz nnkfbt jxbnb sfmqbl rtlg chpdjkf ctmzb rrqmh kjcrdp bhtvt bplgbt ntbr pvprzd hfsmp zqrz kcktpbkr flrqnz jqnhd zvhcv (contains nuts, wheat)
+>>>>>>> Stashed changes
