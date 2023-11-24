@@ -302,14 +302,14 @@ Modern Fischer-Yates in-place shuffle for shuffling finite sequence.
 - Optimal time and space complexity
 - If want to parallelize, use sorting shuffle (assign random index to value and then sort in O(n))
   using radix sort. However this uses O(n) memory.
-- 
+- pseudorandom number generators can only produce as many interal states as they represnet.
+  so a 32 bit can only produce 2^32 < 2^225.6 (52!) reuqired for shuffling 52 cards.
 """
 # O(n^2), O(1)
 def random_shuffle(nums):
-    pass
+    random.shuffle()
 
 def init_random_shuffle(size):
-    
 
 
 

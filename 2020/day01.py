@@ -5,8 +5,13 @@ import math
 import sys
 
 inputLines = loadInput()
-# inputLines = loadeg()
+inputLines = loadeg()
 
+import os
+print(os.getcwd())
+print("SUCCESS")
+print(inputLines)
+quit()
 inputLinesInt = [int(x) for x in inputLines]
 inputLinesSet = set(inputLinesInt)
 for x in inputLinesInt:
