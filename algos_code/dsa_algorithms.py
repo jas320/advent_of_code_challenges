@@ -31,8 +31,7 @@ def dfs(root):
     seen = {root}
     stack = [root]
     while stack:
-        curr = stack.pop()
-        # curr = stack.popleft() for bfs
+        curr = stack.pop() # curr = stack.popleft() for bfs
         # do stuff with curr here 
         print(curr)
         ns = m[curr] if curr in m else []
@@ -193,15 +192,7 @@ def minimum_spanning_tree_classic(m):
                     dist[n] = cost
     print(t)
     return
-import time
-# print(weighted_graph2)
-# t1 = time.time()
-# minimum_spanning_tree_pq(weighted_graph2)
-# t2 = time.time()
-# minimum_spanning_tree_classic(weighted_graph2)
-# t3 = time.time()
-# print(t2 -t1)
-# print(t3 - t2)                    
+import time                 
 
 def shortest_path(start, end, m):
     pass
@@ -310,9 +301,62 @@ def random_shuffle(nums):
     random.shuffle()
 
 def init_random_shuffle(size):
+    pass
 
+m1 = [[1,4],[2,3]]
+m2 = [[15,1,5],
+      [16,3,8],
+      [2,6,4]]
+m3 = [[12,12],
+      [12,12],
+      [0,7]]
+m4 = [[1,2,14],
+      [8,3,15]]
 
+# O(mn), O(m + n) as we need to store intermediate values.
+def rooks(A):
+    w,h = len(A[0]), len(A)
+    rows = {}
+    for y in range(h):
+        ls = []
+        for x in range(w):
+            ls.append((A[y][x], x))
+        ls.sort()
+        # (value, column index)
+        a = ls[-1]
+        b = ls[-2] if len(a) > 1 else ls[-1]
+        rows[y] = (a,b)
 
+    cols = {}
+    for x in range(w):
+        ls = []
+        for y in range(h):
+            ls.append((A[y][x], y))
+        ls.sort()
+        # (value, row index)
+        a = ls[-1]
+        b = ls[-2] if len(a) > 1 else ls[-1]
+        cols[x] = (a,b)
+    # print("rows", rows)
+    # print("cols", cols)
+
+    maxv = -float('inf')
+    for y in range(h):
+        (first_val, first_index) = rows[y][0]
+        for x in range(w):
+            if x == first_index:
+                continue
+            (v2, i2) = cols[x][0]
+            if i2 == y:
+                (v2, i2) = cols[x][1]
+            total = first_val + v2
+            maxv = max(maxv, total)
+    return maxv
+
+print(rooks(m1))
+print(rooks(m2))
+print(rooks(m3))
+print(rooks(m4))
 
 
  
