@@ -50,9 +50,4 @@ for n in m.keys():
         nv = dfs("start", set(), n)
         t += (nv - base)
 print(t + base)
-# print(mv)
-
-# mv = -9
-# for n in m.keys():
-#     mv = max(mv, dfs("start", set(), n))
     

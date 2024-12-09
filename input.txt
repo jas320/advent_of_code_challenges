@@ -1,25 +1,1629 @@
-kc-qy
-qy-FN
-kc-ZP
-end-FN
-li-ZP
-yc-start
-end-qy
-yc-ZP
-wx-ZP
-qy-li
-yc-li
-yc-wx
-kc-FN
-FN-li
-li-wx
-kc-wx
-ZP-start
-li-kc
-qy-nv
-ZP-qy
-nv-xr
-wx-start
-end-nv
-kc-nv
-nv-XQ
+
+Wayback Machine
+http://cftc.gov/dea/futures/deanymesf.htm
+314 captures
+5 Apr 2001 - 5 Feb 2024
+MAY	JUN	AUG
+Previous capture	29	Next capture
+2011	2012	2013
+  
+ About this capture
+  
+ 
+GULF # 6 FUEL 3.0% SULFUR SWAP - NEW YORK MERCANTILE EXCHANGE        Code-02165A
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       45,827
+COMMITMENTS
+   1,722      245    1,020   42,506   44,500   45,248   45,765      579       62
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      3,400)
+     -83      145       50    3,433    3,265    3,400    3,460        0      -60
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     3.8      0.5      2.2     92.8     97.1     98.7     99.9      1.3      0.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       57)
+       1        2        2       43       43       45       46
+ 
+ 
+NY RES FUEL 1.0% SULFUR SWAP - NEW YORK MERCANTILE EXCHANGE          Code-02165B
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       19,202
+COMMITMENTS
+       0        0        0   18,940   19,118   18,940   19,118      262       84
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        -38)
+       0        0        0      -48      -58      -48      -58       10       20
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0     98.6     99.6     98.6     99.6      1.4      0.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       38)
+       0        0        0       25       36       25       36
+ 
+ 
+EUR 1% FUEL OIL NWE CAL SWAP - NEW YORK MERCANTILE EXCHANGE          Code-02165C
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        3,410
+COMMITMENTS
+       0        0        0    2,811    2,699    2,811    2,699      599      711
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:         15)
+       0        0        0        0        0        0        0       15       15
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0     82.4     79.1     82.4     79.1     17.6     20.9
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       0        0        0       19       19       19       19
+ 
+ 
+EUR 3.5% FUEL OIL RTD CAL SWAP - NEW YORK MERCANTILE EXCHANGE        Code-02165E
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:       15,615
+COMMITMENTS
+     325      294      980   13,222   13,283   14,527   14,557    1,088    1,058
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,335)
+      37       60      401      847      811    1,285    1,272       50       63
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.1      1.9      6.3     84.7     85.1     93.0     93.2      7.0      6.8
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       51)
+       3        2        6       41       44       47       51
+ 
+ 
+SING FUEL OIL 180 CAL SWAP - NEW YORK MERCANTILE EXCHANGE            Code-02165G
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        8,643
+COMMITMENTS
+     407       69      355    7,164    7,763    7,926    8,187      717      456
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        455)
+      82      -10       23      430      491      535      504      -80      -49
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     4.7      0.8      4.1     82.9     89.8     91.7     94.7      8.3      5.3
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       63)
+       5        2        5       47       54       53       60
+ 
+ 
+FUEL OIL CARGOES B PLATTS SWAP - NEW YORK MERCANTILE EXCHANGE        Code-02165H
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        6,425
+COMMITMENTS
+       0       43        5    6,007    5,775    6,012    5,823      413      602
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,406)
+       0       43        5    1,410    1,331    1,415    1,379       -9       27
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.7      0.1     93.5     89.9     93.6     90.6      6.4      9.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       24)
+       0        1        1       20       21       21       22
+ 
+ 
+EAST WEST FUEL OIL SPR SWAP - NEW YORK MERCANTILE EXCHANGE           Code-02165I
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        4,581
+COMMITMENTS
+     503        0      516    2,878    3,733    3,897    4,249      684      332
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        462)
+      47        0      158      198      298      403      456       59        6
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    11.0      0.0     11.3     62.8     81.5     85.1     92.8     14.9      7.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       30)
+       2        0        1       22       25       24       26
+ 
+ 
+SING 180 380 FUEL OIL SPR SWAP - NEW YORK MERCANTILE EXCHANGE        Code-02165J
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        2,350
+COMMITMENTS
+       0      170       10    1,937    1,693    1,947    1,873      403      477
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        334)
+       0       35      -15      351      304      336      324       -2       10
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      7.2      0.4     82.4     72.0     82.9     79.7     17.1     20.3
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       24)
+       0        3        1       18       16       19       19
+ 
+ 
+SING 380 FUEL OIL SWAP - NEW YORK MERCANTILE EXCHANGE                Code-02165K
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        2,480
+COMMITMENTS
+      95       58       58    1,735    1,999    1,888    2,115      592      365
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        151)
+      80       58       23       51       37      154      118       -3       33
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     3.8      2.3      2.3     70.0     80.6     76.1     85.3     23.9     14.7
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       2        1        2       17       19       20       21
+ 
+ 
+NY 1% V GULF 3% FUEL OIL SPR - NEW YORK MERCANTILE EXCHANGE          Code-02165T
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 GALLONS)                         OPEN INTEREST:       14,324
+COMMITMENTS
+       0        0        0   14,183   14,294   14,183   14,294      141       30
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,835)
+       0        0        0    1,835    1,835    1,835    1,835        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0     99.0     99.8     99.0     99.8      1.0      0.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       31)
+       0        0        0       26       19       26       19
+ 
+ 
+MINI EUR 3.5%FOIL RTD CAL SWAP - NEW YORK MERCANTILE EXCHANGE        Code-021A17
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 100 METRIC TONS)                       OPEN INTEREST:        7,218
+COMMITMENTS
+       0      468        0    6,951    6,574    6,951    7,042      267      176
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        238)
+       0       48        0      238      190      238      238        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      6.5      0.0     96.3     91.1     96.3     97.6      3.7      2.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       0        3        0       19       18       19       21
+ 
+ 
+GULF NO6 FO 3% v EUR 3.5% RDAM - NEW YORK MERCANTILE EXCHANGE        Code-021A28
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       21,466
+COMMITMENTS
+       0    3,424      123   21,203   17,919   21,326   21,466      140        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        564)
+       0      395     -195      759      364      564      564        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0     16.0      0.6     98.8     83.5     99.3    100.0      0.7      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       36)
+       0        1        1       31       24       32       25
+ 
+ 
+NO. 2 HEATING OIL, N.Y. HARBOR - NEW YORK MERCANTILE EXCHANGE        Code-022651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 U.S. GALLONS)                   OPEN INTEREST:      336,745
+COMMITMENTS
+  42,002   42,592   60,909  198,570  196,518  301,481  300,019   35,264   36,726
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      8,530)
+     785    6,271    3,470    9,205    1,494   13,460   11,235   -4,930   -2,705
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    12.5     12.6     18.1     59.0     58.4     89.5     89.1     10.5     10.9
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      165)
+      34       40       42       78       77      135      140
+ 
+ 
+SING GASOIL SWAP - NEW YORK MERCANTILE EXCHANGE                      Code-02265J
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1000 BARRELS)                          OPEN INTEREST:       14,560
+COMMITMENTS
+     200    2,430      100   14,074   11,930   14,374   14,460      186      100
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        982)
+       0      100        0      978      882      978      982        4        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     1.4     16.7      0.7     96.7     81.9     98.7     99.3      1.3      0.7
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       61)
+       3        4        1       40       46       44       51
+ 
+ 
+SING GASOIL ICE GASOIL SWAP - NEW YORK MERCANTILE EXCHANGE           Code-02265T
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       18,649
+COMMITMENTS
+   1,143    1,550        0   17,488   17,069   18,631   18,619       18       30
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        530)
+       0        0        0      530      530      530      530        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     6.1      8.3      0.0     93.8     91.5     99.9     99.8      0.1      0.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       45)
+       5        1        0       27       32       32       33
+ 
+ 
+GULF COAST ULSD SWAP - NEW YORK MERCANTILE EXCHANGE                  Code-022A05
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:       11,196
+COMMITMENTS
+       0        0        0    9,978   10,919    9,978   10,919    1,218      277
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        222)
+       0        0        0      156      204      156      204       66       18
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0     89.1     97.5     89.1     97.5     10.9      2.5
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       21)
+       0        0        0       19       14       19       14
+ 
+ 
+NATURAL GAS - NEW YORK MERCANTILE EXCHANGE                           Code-023651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 10,000 MMBTU'S)                        OPEN INTEREST:    1,145,017
+COMMITMENTS
+ 229,354  339,431  387,740  458,401  369,916  1075495  1097087   69,522   47,930
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:    -40,311)
+ -13,853  -17,471  -26,504     -199    4,700  -40,556  -39,275      245   -1,036
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    20.0     29.6     33.9     40.0     32.3     93.9     95.8      6.1      4.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      301)
+      99      115      139       72       69      259      244
+ 
+ 
+WAHA BASIS SWAP - NEW YORK MERCANTILE EXCHANGE                       Code-02365O
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 2,500  MMBTU'S)                        OPEN INTEREST:       39,601
+COMMITMENTS
+     627    7,807      576   34,913   25,535   36,116   33,918    3,485    5,683
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0      -24        0      -24        0       24        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     1.6     19.7      1.5     88.2     64.5     91.2     85.6      8.8     14.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       21)
+       1        3        2        9       12       11       16
+ 
+ 
+HENRY HUB LAST DAY FIN - NEW YORK MERCANTILE EXCHANGE                Code-023A55
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 10,000 MMBTU'S)                        OPEN INTEREST:       76,314
+COMMITMENTS
+  14,494   26,393   19,927   38,613   27,975   73,034   74,295    3,280    2,019
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      2,059)
+    -272     -634    1,207    1,205    1,867    2,140    2,440      -81     -381
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    19.0     34.6     26.1     50.6     36.7     95.7     97.4      4.3      2.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       36)
+      10        7       14       18       19       33       35
+ 
+ 
+PANHANDLE BASIS SWAP - NEW YORK MERCANTILE EXCHANGE                  Code-035655
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 2,500  MMBTU'S)                        OPEN INTEREST:       67,301
+COMMITMENTS
+       0    1,452    2,832   58,258   54,650   61,090   58,934    6,211    8,367
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        406)
+       0        0        0      344      406      344      406       62        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      2.2      4.2     86.6     81.2     90.8     87.6      9.2     12.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       23)
+       0        2        2       16       16       18       18
+ 
+ 
+HENRY HUB SWAP - NEW YORK MERCANTILE EXCHANGE                        Code-03565B
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 2,500  MMBTU'S)                        OPEN INTEREST:    2,804,792
+COMMITMENTS
+ 449,216   45,088  851,915  1471916  1880716  2773047  2777719   31,745   27,073
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:     42,865)
+   1,720  -12,101   13,473   31,644   42,340   46,837   43,712   -3,972     -847
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    16.0      1.6     30.4     52.5     67.1     98.9     99.0      1.1      1.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      159)
+      39       12       46       99       85      151      134
+ 
+ 
+HENRY HUB PENULTIMATE GAS SWAP - NEW YORK MERCANTILE EXCHANGE        Code-03565C
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 2,500  MMBTU'S)                        OPEN INTEREST:    1,439,412
+COMMITMENTS
+ 238,065  180,858  390,758  807,670  865,985  1436493  1437601    2,919    1,811
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:     47,734)
+   8,582    6,943    9,231   29,999   31,737   47,812   47,911      -78     -177
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    16.5     12.6     27.1     56.1     60.2     99.8     99.9      0.2      0.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       96)
+      24       22       34       46       40       87       79
+ 
+ 
+CENTRAL APPALACHIAN COAL - NEW YORK MERCANTILE EXCHANGE              Code-024651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,550 TONS)                            OPEN INTEREST:        7,110
+COMMITMENTS
+     750      975       15    5,865    5,015    6,630    6,005      480    1,105
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          .)
+       .        .        .        .        .        .        .        .        .
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    10.5     13.7      0.2     82.5     70.5     93.2     84.5      6.8     15.5
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       1        3        1       12       13       14       16
+ 
+ 
+CHICAGO ETHANOL SWAP - NEW YORK MERCANTILE EXCHANGE                  Code-025651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 U.S. GALLONS)                   OPEN INTEREST:       24,714
+COMMITMENTS
+     267    1,745      189   23,950   22,389   24,406   24,323      308      391
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        394)
+     105     -190      -59      308      618      354      369       40       25
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     1.1      7.1      0.8     96.9     90.6     98.8     98.4      1.2      1.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       57)
+       3        4        2       33       44       37       50
+ 
+ 
+EUROPEAN NAPHTHA CAL SWAP - NEW YORK MERCANTILE EXCHANGE             Code-03265A
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        2,500
+COMMITMENTS
+     127       88       60    1,818    1,777    2,005    1,925      495      575
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        193)
+       0       10        0      156      404      156      414       37     -221
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     5.1      3.5      2.4     72.7     71.1     80.2     77.0     19.8     23.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       1        1        1       23       21       25       22
+ 
+ 
+JAPAN C&F; NAPHTHA SWAP - NEW YORK MERCANTILE EXCHANGE                Code-03265C
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 METRIC TONS)                     OPEN INTEREST:        1,858
+COMMITMENTS
+      91       80       40    1,307    1,346    1,438    1,466      420      392
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        145)
+      12        0        0       55      140       67      140       78        5
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     4.9      4.3      2.2     70.3     72.4     77.4     78.9     22.6     21.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       2        1        2       19       18       21       21
+ 
+ 
+PJM ELECTRICITY MONTHLY - NEW YORK MERCANTILE EXCHANGE               Code-064657
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(40 MEGAWATT HOURS PER PEAK DAY)                     OPEN INTEREST:       67,501
+COMMITMENTS
+  13,397      789    4,081   48,387   61,341   65,865   66,211    1,636    1,290
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        274)
+       0       40        0      274      234      274      274        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    19.8      1.2      6.0     71.7     90.9     97.6     98.1      2.4      1.9
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       42)
+       4        2        4       33       32       39       36
+ 
+ 
+ISO NEW ENGLAND LMP SWAP - NEW YORK MERCANTILE EXCHANGE              Code-06465H
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(40 MEGAWATT HOURS PER PEAK DAY)                     OPEN INTEREST:       18,376
+COMMITMENTS
+     360    1,184    2,746   14,006   13,600   17,112   17,530    1,264      846
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        -18)
+       0     -130       80     -100       30      -20      -20        2        2
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.0      6.4     14.9     76.2     74.0     93.1     95.4      6.9      4.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       26)
+       1        2        3       21       17       24       20
+ 
+ 
+AEP DAYTON CAL MONTH LMP SWAP - NEW YORK MERCANTILE EXCHANGE         Code-06465K
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(40 MEGAWATT HOURS PER PEAK DAY)                     OPEN INTEREST:       13,229
+COMMITMENTS
+   4,130    1,166      340    7,735   11,403   12,205   12,909    1,024      320
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:         54)
+       0      -60       60       -6       54       54       54        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    31.2      8.8      2.6     58.5     86.2     92.3     97.6      7.7      2.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       24)
+       1        2        2       15       19       18       21
+ 
+ 
+PJM CAL MONTH OFF PK LMP SWAP - NEW YORK MERCANTILE EXCHANGE         Code-06465M
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(2.5 MEGAWATTS PER OFF PEAK HRS)                     OPEN INTEREST:       24,949
+COMMITMENTS
+     738    2,680      414   22,033   20,934   23,185   24,028    1,764      921
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        -24)
+       0        0        0      422      216      422      216     -446     -240
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     3.0     10.7      1.7     88.3     83.9     92.9     96.3      7.1      3.7
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       32)
+       2        1        3       27       25       30       28
+ 
+ 
+NORTH ILL OFF PK LMP SWAP - NEW YORK MERCANTILE EXCHANGE             Code-06465N
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(2.5 MEGAWATTS PER OFF PEAK HRS)                     OPEN INTEREST:        9,104
+COMMITMENTS
+   1,150        0      226    6,244    6,949    7,620    7,175    1,484    1,929
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:         20)
+       0        0        0       20       10       20       10        0       10
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    12.6      0.0      2.5     68.6     76.3     83.7     78.8     16.3     21.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       21)
+       1        0        1       17       16       18       17
+ 
+ 
+AEP DAYTON OFF PK LMP SWAP - NEW YORK MERCANTILE EXCHANGE            Code-06465O
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(2.5 MEGAWATTS PER OFF PEAK HRS)                     OPEN INTEREST:       13,034
+COMMITMENTS
+   4,080    2,556      136    7,766    9,536   11,982   12,228    1,052      806
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:         26)
+       0        0        0       16       26       16       26       10        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    31.3     19.6      1.0     59.6     73.2     91.9     93.8      8.1      6.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       21)
+       1        2        2       16       16       19       18
+ 
+ 
+ISO NEW ENG OFF PK LMP SWAP - NEW YORK MERCANTILE EXCHANGE           Code-06465S
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(2.5 MEGAWATTS PER OFF PEAK HRS)                     OPEN INTEREST:       13,894
+COMMITMENTS
+     278    2,440      990   11,735    9,610   13,003   13,040      891      854
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0      -60        0        0       60        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.0     17.6      7.1     84.5     69.2     93.6     93.9      6.4      6.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       1        2        3       20       18       23       21
+ 
+ 
+PJM N ILL PEAK DAY AHEAD - NEW YORK MERCANTILE EXCHANGE              Code-064A34
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       61,835
+COMMITMENTS
+       0        0        0   61,835   61,835   61,835   61,835        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        -42)
+       0        0        0      -42      -42      -42      -42        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0    100.0    100.0    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       0        0        0       19       15       19       15
+ 
+ 
+PJM N ILL OFF PEAK DAY AHEAD - NEW YORK MERCANTILE EXCHANGE          Code-064A35
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 Megawatt Hours)                      OPEN INTEREST:    1,003,665
+COMMITMENTS
+       0        0        0  1003665  1003665  1003665  1003665        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:     -1,664)
+       0        0        0   -1,664   -1,664   -1,664   -1,664        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0    100.0    100.0    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       24)
+       0        0        0       16       16       16       16
+ 
+ 
+PJM PSEG PEAK DAY AHEAD - NEW YORK MERCANTILE EXCHANGE               Code-064A54
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       28,154
+COMMITMENTS
+       0        0        0   28,154   28,154   28,154   28,154        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0    100.0    100.0    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       0        0        0       13       10       13       10
+ 
+ 
+PJM WESTERN PEAK DAY AHEAD - NEW YORK MERCANTILE EXCHANGE            Code-064A56
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:      107,973
+COMMITMENTS
+       0        0        0  107,718  107,718  107,718  107,718      255      255
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        193)
+       0        0        0      193      193      193      193        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0     99.8     99.8     99.8     99.8      0.2      0.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       36)
+       0        0        0       17       28       17       28
+ 
+ 
+PJM WESTERN OFF PEAK DAY AHEAD - NEW YORK MERCANTILE EXCHANGE        Code-064A57
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 MEGAWATT HOURS)                      OPEN INTEREST:    1,496,218
+COMMITMENTS
+       0        0        0  1496218  1496218  1496218  1496218        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,568)
+       0        0        0    1,568    1,568    1,568    1,568        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0    100.0    100.0    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       33)
+       0        0        0       17       23       17       23
+ 
+ 
+PJM WESTERN PEAK REAL TIME - NEW YORK MERCANTILE EXCHANGE            Code-064A58
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       66,446
+COMMITMENTS
+   5,692    2,875    7,800   52,954   55,771   66,446   66,446        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,530)
+       0        0        0    1,530    1,530    1,530    1,530        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     8.6      4.3     11.7     79.7     83.9    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       35)
+       3        1        2       27       21       31       23
+ 
+ 
+PJM WESTERN OFF PEAK REAL TIME - NEW YORK MERCANTILE EXCHANGE        Code-064A59
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 Megawatt Hours)                      OPEN INTEREST:    1,192,709
+COMMITMENTS
+  57,801   97,890   40,014  1094894  1054805  1192709  1192709        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      2,769)
+       0        0        0    2,769    2,769    2,769    2,769        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     4.8      8.2      3.4     91.8     88.4    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       39)
+       3        2        2       29       23       33       26
+ 
+ 
+ISO NEW ENG INT HUB PEAK SWAP - NEW YORK MERCANTILE EXCHANGE         Code-064A60
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       52,893
+COMMITMENTS
+       0    3,788        0   52,745   48,553   52,745   52,341      148      552
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      7.2      0.0     99.7     91.8     99.7     99.0      0.3      1.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       27)
+       0        2        0       19       15       19       17
+ 
+ 
+PJM N ILL HUB 5 MW PEAK SWAP - NEW YORK MERCANTILE EXCHANGE          Code-064A63
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       46,591
+COMMITMENTS
+   1,480    5,735      105   44,412   40,751   45,997   46,591      594        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     3.2     12.3      0.2     95.3     87.5     98.7    100.0      1.3      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       28)
+       1        1        1       15       17       17       18
+ 
+ 
+PJM AEP DAY HUB 5 MW PEAK SWAP - NEW YORK MERCANTILE EXCHANGE        Code-064A64
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       31,175
+COMMITMENTS
+  13,432        0    1,690   16,053   29,485   31,175   31,175        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        264)
+     264        0        0        0      264      264      264        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    43.1      0.0      5.4     51.5     94.6    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       2        0        2       10       13       12       15
+ 
+ 
+NYISO ZONE G 5 MW PEAK SWAP - NEW YORK MERCANTILE EXCHANGE           Code-064A68
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       16,093
+COMMITMENTS
+     444      974      176   14,537   14,647   15,157   15,797      936      296
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.8      6.1      1.1     90.3     91.0     94.2     98.2      5.8      1.8
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       26)
+       1        1        1       17       16       19       17
+ 
+ 
+NYISO ZONE J 5 MW PEAK SWAP - NEW YORK MERCANTILE EXCHANGE           Code-064A69
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 80 Megawatt Hours)                     OPEN INTEREST:       12,975
+COMMITMENTS
+     254    1,130        0   12,573   11,548   12,827   12,678      148      297
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.0      8.7      0.0     96.9     89.0     98.9     97.7      1.1      2.3
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       21)
+       1        2        0       16       10       17       12
+ 
+ 
+ISO NEW ENG HUB OFF PEAK SWAP - NEW YORK MERCANTILE EXCHANGE         Code-064A78
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 Megawatt Hours)                      OPEN INTEREST:      894,072
+COMMITMENTS
+       0   67,097   23,400  870,672  803,575  894,072  894,072        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      7.5      2.6     97.4     89.9    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       27)
+       0        2        1       20       15       21       17
+ 
+ 
+PJM N ILL HUB 5 OFF PEAK SWAP - NEW YORK MERCANTILE EXCHANGE         Code-064A79
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 Megawatt Hours)                      OPEN INTEREST:    1,006,241
+COMMITMENTS
+  27,690  107,255   15,840  962,711  883,146  1006241  1006241        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.8     10.7      1.6     95.7     87.8    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       22)
+       1        1        1       14       14       16       15
+ 
+ 
+PJM AEP DAYTON OFF PEAK SWAP - NEW YORK MERCANTILE EXCHANGE          Code-064A80
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 Megawatt Hours)                      OPEN INTEREST:      546,290
+COMMITMENTS
+ 207,018        0   58,840  280,432  487,450  546,290  546,290        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      7,816)
+       0        0        0    7,816    7,816    7,816    7,816        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    37.9      0.0     10.8     51.3     89.2    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       2        0        2       13       13       15       15
+ 
+ 
+NYISO ZONE G5 MW OFF PEAK SWAP - NEW YORK MERCANTILE EXCHANGE        Code-064A84
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(Contracts of 5 Megawatt Hours)                      OPEN INTEREST:      151,880
+COMMITMENTS
+       0    7,416        0  151,880  144,464  151,880  151,880        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      4.9      0.0    100.0     95.1    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       0        2        0        9       12        9       14
+ 
+ 
+MT BELVIEU PROPANE (OPIS) SWAP - NEW YORK MERCANTILE EXCHANGE        Code-06665O
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:       28,110
+COMMITMENTS
+   2,216      122       35   25,379   27,428   27,630   27,585      480      525
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:         89)
+      56        0        0       33       89       89       89        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     7.9      0.4      0.1     90.3     97.6     98.3     98.1      1.7      1.9
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       46)
+       2        2        1       36       33       39       35
+ 
+ 
+MT BELVIEU ETHANE OPIS SWAP - NEW YORK MERCANTILE EXCHANGE           Code-06665P
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:        7,911
+COMMITMENTS
+   1,097       26        0    6,452    7,525    7,549    7,551      362      360
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        120)
+       0        0        0      165      120      165      120      -45        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    13.9      0.3      0.0     81.6     95.1     95.4     95.4      4.6      4.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       28)
+       3        1        0       20       16       23       17
+ 
+ 
+MT BELV NORM BUTANE OPIS SWAP - NEW YORK MERCANTILE EXCHANGE         Code-06665Q
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:        9,686
+COMMITMENTS
+      90    1,584      101    9,168    7,400    9,359    9,085      327      601
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        170)
+       0      -65       15      178      358      193      308      -23     -138
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.9     16.4      1.0     94.7     76.4     96.6     93.8      3.4      6.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       25)
+       1        2        1       21       18       23       20
+ 
+ 
+MT BELV NAT GASOLINE OPIS SWAP - NEW YORK MERCANTILE EXCHANGE        Code-06665R
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:       10,523
+COMMITMENTS
+   1,010        0        0    9,388    9,859   10,398    9,859      125      664
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        372)
+       0        0        0      312      383      312      383       60      -11
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     9.6      0.0      0.0     89.2     93.7     98.8     93.7      1.2      6.3
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       28)
+       1        0        0       22       18       23       18
+ 
+ 
+CRUDE OIL, LIGHT SWEET - NEW YORK MERCANTILE EXCHANGE                Code-067651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:    1,432,162
+COMMITMENTS
+ 295,571  182,738  410,508  650,111  771,985  1356190  1365231   75,972   66,931
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:         36)
+  -5,205    5,870   -2,169    6,183      223   -1,191    3,924    1,227   -3,888
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    20.6     12.8     28.7     45.4     53.9     94.7     95.3      5.3      4.7
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      334)
+     107      108      145       89       96      278      281
+ 
+ 
+WTI CRUDE OIL CALENDAR SWAP - NEW YORK MERCANTILE EXCHANGE           Code-06765A
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:      202,324
+COMMITMENTS
+  64,079   19,857    1,284   95,313  130,309  160,676  151,450   41,648   50,874
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,117)
+     100      -91     -108     -412    3,416     -420    3,217    1,537   -2,100
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    31.7      9.8      0.6     47.1     64.4     79.4     74.9     20.6     25.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       33)
+       6        5        5       18       20       26       28
+ 
+ 
+DUBAI CRUDE OIL CALENDAR SWAP - NEW YORK MERCANTILE EXCHANGE         Code-06765G
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       18,525
+COMMITMENTS
+   1,068      580    1,120   16,320   16,825   18,508   18,525       17        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,684)
+       0        0        0    1,684    1,684    1,684    1,684        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     5.8      3.1      6.0     88.1     90.8     99.9    100.0      0.1      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       38)
+       1        4        3       26       26       30       31
+ 
+ 
+WTI CRUDE OIL FINANCIAL - NEW YORK MERCANTILE EXCHANGE               Code-06765I
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       85,967
+COMMITMENTS
+   4,802   10,538    4,454   73,226   66,189   82,482   81,181    3,485    4,786
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        891)
+    -210      308      886     -166     -303      510      891      381        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     5.6     12.3      5.2     85.2     77.0     95.9     94.4      4.1      5.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       34)
+       4        6        9       22       18       32       29
+ 
+ 
+BRENT FINANCIAL - NEW YORK MERCANTILE EXCHANGE                       Code-06765J
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       41,588
+COMMITMENTS
+   2,799    1,848    6,247   30,163   31,049   39,209   39,144    2,379    2,444
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      8,407)
+     192        0    4,490    4,534    3,912    9,216    8,402     -809        5
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     6.7      4.4     15.0     72.5     74.7     94.3     94.1      5.7      5.9
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       24)
+       3        3        6       14       14       21       22
+ 
+ 
+BRENT (ICE) CALENDAR SWAP - NEW YORK MERCANTILE EXCHANGE             Code-06765N
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       66,302
+COMMITMENTS
+   1,037    2,892      944   32,086   32,524   34,067   36,360   32,235   29,942
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          .)
+       .        .        .        .        .        .        .        .        .
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     1.6      4.4      1.4     48.4     49.1     51.4     54.8     48.6     45.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       1        5        4       13       14       17       20
+ 
+ 
+BRENT-DUBAI SWAP - NEW YORK MERCANTILE EXCHANGE                      Code-06765O
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:        5,200
+COMMITMENTS
+   1,900        0        0    3,290    5,146    5,190    5,146       10       54
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          0)
+       0        0        0        0        0        0        0        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    36.5      0.0      0.0     63.3     99.0     99.8     99.0      0.2      1.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       23)
+       3        0        0       15       14       18       14
+ 
+ 
+BRENT CRUDE OIL LAST DAY - NEW YORK MERCANTILE EXCHANGE              Code-06765T
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       26,964
+COMMITMENTS
+   4,513    6,014    7,835   11,063   10,264   23,411   24,113    3,553    2,851
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        638)
+    -752     -150       30        0      565     -722      445    1,360      193
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    16.7     22.3     29.1     41.0     38.1     86.8     89.4     13.2     10.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       23)
+       7        6        7       10       10       20       20
+ 
+ 
+CANADIAN HVY CRUDE NET ENRGY - NEW YORK MERCANTILE EXCHANGE          Code-067A49
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       16,961
+COMMITMENTS
+       0        0        0   16,961   16,961   16,961   16,961        0        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          .)
+       .        .        .        .        .        .        .        .        .
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.0      0.0      0.0    100.0    100.0    100.0    100.0      0.0      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       0        0        0       16       12       16       12
+ 
+ 
+PALLADIUM - NEW YORK MERCANTILE EXCHANGE                             Code-075651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 100 TROY OUNCES)                       OPEN INTEREST:       21,646
+COMMITMENTS
+  12,702    8,240      515    7,183   11,321   20,400   20,076    1,246    1,570
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        629)
+     151    1,462       21      599   -1,091      771      392     -142      237
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    58.7     38.1      2.4     33.2     52.3     94.2     92.7      5.8      7.3
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      158)
+      54       51       11       24       29       85       89
+ 
+ 
+PLATINUM - NEW YORK MERCANTILE EXCHANGE                              Code-076651
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 50 TROY OUNCES)                        OPEN INTEREST:       50,349
+COMMITMENTS
+  34,754   15,957      505    9,812   30,807   45,071   47,269    5,278    3,080
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:     -1,482)
+     184      639      217   -1,682   -2,457   -1,281   -1,601     -201      119
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    69.0     31.7      1.0     19.5     61.2     89.5     93.9     10.5      6.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      174)
+      83       46       14       25       33      116       86
+ 
+ 
+GASOLINE BLENDSTOCK (RBOB) - NEW YORK MERCANTILE EXCHANGE            Code-111659
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 U.S. GALLONS)                   OPEN INTEREST:      281,729
+COMMITMENTS
+  82,618   22,040   38,252  143,604  202,524  264,474  262,816   17,255   18,913
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:    -24,476)
+     537      828   -6,046  -17,661  -19,992  -23,170  -25,210   -1,306      734
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    29.3      7.8     13.6     51.0     71.9     93.9     93.3      6.1      6.7
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:      196)
+      62       27       51       77       93      159      158
+ 
+ 
+RBOB CALENDAR SWAP - NEW YORK MERCANTILE EXCHANGE                    Code-11165K
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 U.S. GALLONS)                   OPEN INTEREST:       20,161
+COMMITMENTS
+   7,707        0      185    6,658   14,861   14,550   15,046    5,611    5,115
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:       -447)
+    -370        0      -19     -332     -317     -721     -336      274     -111
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    38.2      0.0      0.9     33.0     73.7     72.2     74.6     27.8     25.4
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       27)
+       5        0        2       11       20       16       22
+ 
+ 
+RBOB GASOLINE/BRENT CRACK SPRD - NEW YORK MERCANTILE EXCHANGE        Code-111A41
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       20,694
+COMMITMENTS
+      80    2,967    2,595   15,428   12,223   18,103   17,785    2,591    2,909
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,232)
+      80     -870      -15      871    2,193      936    1,308      296      -76
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.4     14.3     12.5     74.6     59.1     87.5     85.9     12.5     14.1
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       20)
+       1        3        3       13       15       16       19
+ 
+ 
+SING JET KERO SWAP - NEW YORK MERCANTILE EXCHANGE                    Code-26265D
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:        9,597
+COMMITMENTS
+      70    2,240      204    9,090    6,896    9,364    9,340      233      257
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:          6)
+       0        0        0      -44      -44      -44      -44       50       50
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     0.7     23.3      2.1     94.7     71.9     97.6     97.3      2.4      2.7
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       40)
+       1        2        1       28       30       29       33
+ 
+ 
+UP DOWN GC ULSD VS HO SPR SWAP - NEW YORK MERCANTILE EXCHANGE        Code-022A13
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:       56,076
+COMMITMENTS
+   2,525        0       50   52,949   55,933   55,524   55,983      552       93
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        -59)
+    -225        0     -400      762      341      137      -59     -196        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     4.5      0.0      0.1     94.4     99.7     99.0     99.8      1.0      0.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       60)
+       7        0        1       48       31       55       32
+ 
+ 
+GULF JET NY HEAT OIL SPR SWAP - NEW YORK MERCANTILE EXCHANGE         Code-86465A
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 42,000 GALLONS)                        OPEN INTEREST:       32,925
+COMMITMENTS
+     350        0        0   32,515   32,925   32,865   32,925       60        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      2,555)
+       0        0        0    2,555    2,555    2,555    2,555        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     1.1      0.0      0.0     98.8    100.0     99.8    100.0      0.2      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       32)
+       1        0        0       23       22       24       22
+ 
+ 
+SING JET KERO GASOIL SPR SWAP - NEW YORK MERCANTILE EXCHANGE         Code-86465C
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       13,934
+COMMITMENTS
+     350    6,013      150   13,254    7,771   13,754   13,934      180        0
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        620)
+       0      100        0      620      520      620      620        0        0
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.5     43.2      1.1     95.1     55.8     98.7    100.0      1.3      0.0
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       39)
+       1        4        1       29       22       30       27
+ 
+ 
+3.5% FUEL OIL RDAM CRACK SPR - NEW YORK MERCANTILE EXCHANGE          Code-86565C
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       41,558
+COMMITMENTS
+   4,698        0    6,787   30,018   34,527   41,503   41,314       55      244
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      2,644)
+     197        0      438    1,977    2,174    2,612    2,612       32       32
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    11.3      0.0     16.3     72.2     83.1     99.9     99.4      0.1      0.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       65)
+      10        0        5       43       50       53       55
+ 
+ 
+1% FUEL OIL NWE CRACK SPR - NEW YORK MERCANTILE EXCHANGE             Code-86565D
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       10,044
+COMMITMENTS
+     278    6,109        0    9,526    3,570    9,804    9,679      240      365
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        442)
+     182      303        0      260      281      442      584        0     -142
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.8     60.8      0.0     94.8     35.5     97.6     96.4      2.4      3.6
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       28)
+       2        2        0       20       17       22       19
+ 
+ 
+NAPHTHA CRACK SPR SWAP - NEW YORK MERCANTILE EXCHANGE                Code-86665A
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       12,093
+COMMITMENTS
+   2,398    1,802      230    9,447    9,958   12,075   11,990       18      103
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        822)
+     224      643     -211      815      418      828      850       -6      -28
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    19.8     14.9      1.9     78.1     82.3     99.9     99.1      0.1      0.9
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       46)
+       7        7        1       28       24       35       32
+ 
+ 
+GASOIL CRACK SPR SWAP - NEW YORK MERCANTILE EXCHANGE                 Code-86765C
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       30,689
+COMMITMENTS
+  11,531    1,858      771   17,508   27,388   29,810   30,017      879      672
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:      1,072)
+    -203       70      282      978      680    1,057    1,032       15       40
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    37.6      6.1      2.5     57.0     89.2     97.1     97.8      2.9      2.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       56)
+       8        8        6       26       36       36       48
+ 
+ 
+GULF COAST ULSD CRACK SPR SWAP - NEW YORK MERCANTILE EXCHANGE        Code-022A09
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       19,327
+COMMITMENTS
+     530      266    3,755   14,826   15,271   19,111   19,292      216       35
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        570)
+       0        0      300      570      570      870      870     -300     -300
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+     2.7      1.4     19.4     76.7     79.0     98.9     99.8      1.1      0.2
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       21)
+       1        1        4       14       15       18       19
+ 
+ 
+EUROBOB OXY NWE CRK SPR - NEW YORK MERCANTILE EXCHANGE               Code-967654
+FUTURES ONLY POSITIONS AS OF 06/26/12                         |
+--------------------------------------------------------------| NONREPORTABLE
+      NON-COMMERCIAL      |   COMMERCIAL    |      TOTAL      |   POSITIONS
+--------------------------|-----------------|-----------------|-----------------
+  LONG  | SHORT  |SPREADS |  LONG  | SHORT  |  LONG  | SHORT  |  LONG  | SHORT
+--------------------------------------------------------------------------------
+(CONTRACTS OF 1,000 BARRELS)                         OPEN INTEREST:       25,863
+COMMITMENTS
+   3,392        0      494   20,146   22,329   24,032   22,823    1,831    3,040
+
+CHANGES FROM 06/19/12 (CHANGE IN OPEN INTEREST:        500)
+     169     -300        0    1,020    4,429    1,189    4,129     -689   -3,629
+
+PERCENT OF OPEN INTEREST FOR EACH CATEGORY OF TRADERS
+    13.1      0.0      1.9     77.9     86.3     92.9     88.2      7.1     11.8
+
+NUMBER OF TRADERS IN EACH CATEGORY (TOTAL TRADERS:       31)
+       3        0        1       21       25       24       26
+ 
+Updated June 29, 2012
